@@ -1,1 +1,1 @@
-# math_stat_1_2
+# math_stat
